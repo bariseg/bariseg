@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-a future software engineer\n
-i'm currently working on my college assigments and building my ideas.
+- a future software engineer
+- i'm currently working on my college assigments and building my ideas.
 
-Languages: Turkish/English
+- Languages: Turkish/English
 
 <!--
 **bariseg/bariseg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
