@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 - a future software engineer interested in UAVs, defence industry and interesting web or mobile applications. 
-- i'm currently working on my college assigments and building my ideas.
-
+- i'm currently working on
+  -   my college assigments
+  -   building my personal website
+  -   a hand movement controlled desktop application(Computer vision based)
+    
 - Languages: Turkish/English
 
 <!--
