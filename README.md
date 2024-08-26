@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- a future software engineer
+- a future software engineer interested in UAVs, defence industry also interesting web or mobile applications. 
 - i'm currently working on my college assigments and building my ideas.
 
 - Languages: Turkish/English
