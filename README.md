@@ -4,7 +4,6 @@
 - i'm currently working on
   -   my college assigments
   -   building my personal website
-  -   a hand movement controlled desktop application(Computer vision based)
     
 - Languages: Turkish/English
 
