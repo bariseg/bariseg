@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- a future software engineer interested in UAVs, defence industry and interesting web or mobile applications. 
+- a prospective computer engineer interested in UAVs, defence industry and interesting web or mobile applications.
 - i'm currently working on
   -   my college assigments
   -   building my personal website
+  -   bnack-end developing for ShareNeat project
     
 - Languages: Turkish/English
 
