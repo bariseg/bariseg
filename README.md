@@ -4,7 +4,7 @@
 - i'm currently working on
   -   my college assigments
   -   building my personal website
-  -   bnack-end developing for ShareNeat project
+  -   back-end developing for ShareNeat project
     
 - Languages: Turkish/English
 
