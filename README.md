@@ -5,6 +5,7 @@
   -   my college assigments
   -   building my personal website
   -   back-end developing for ShareNeat project
+  -   UAV software developing for Teknofest 
     
 - Languages: Turkish/English
 
