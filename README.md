@@ -3,9 +3,7 @@
 - a prospective computer engineer interested in UAVs, defence industry and interesting web or mobile applications.
 - i'm currently working on
   -   my college assigments
-  -   building my personal website
-  -   back-end developing for ShareNeat project
-  -   UAV software developing for Teknofest 
+  -   UAV software developing for Teknofest as my grad project
     
 - Languages: Turkish/English
 
